@@ -3,9 +3,9 @@ body,html{
   padding: 0;
 }
 .img{
-  image: url(clomologo.jpg);
-  position: center;
-  size: cover;
+  background-image: url(clomologo.jpg);
+  background-position: center;
+  background-size: cover;
   width: 100%;
   height: 100vh;
 }
